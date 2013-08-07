@@ -1,0 +1,1 @@
+First simple application made with RoR.
